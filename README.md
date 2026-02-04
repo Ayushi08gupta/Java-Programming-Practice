@@ -107,3 +107,34 @@ Learned to rewrite programs using different loop structures
 Enhanced logical thinking and debugging skills
 ### 🔗 Code Link
  [Control Flow Statements] https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/control-flow
+ Topics Covered
+## Day 3 – Core Java Fundamentals
+**Date:** 30-Jan-2026
+## Java Arrays
+Creating an Array
+Accessing an Array
+Accessing array elements using for loop
+Modifying an Array
+Using length property of arrays
+Java Multi-Dimensional Arrays
+Java 2D Array (Matrix)
+Accessing elements and finding size of Multi-Dimensional Arrays
+## 🧪 Sample Program
+Sum of Digits Using Array
+Took a number as user input
+Validated input (negative numbers are invalid)
+Counted digits in the number
+Stored digits in an array
+Calculated and displayed the sum of digits
+Key Concepts Used:
+Arrays
+Loops
+Input validation
+Digit extraction logic
+## Key Learnings
+Strong understanding of array creation and manipulation
+Practical use of 1D and 2D arrays
+Learned dynamic array resizing logic
+Improved problem-solving using arrays
+Hands-on experience with real-world scenarios
+### 🔗 Code Link [Day 4 – Java Arrays] 
