@@ -138,3 +138,30 @@ Learned dynamic array resizing logic
 Improved problem-solving using arrays
 Hands-on experience with real-world scenarios
 ### 🔗 Code Link [Day 4 – Java Arrays] 
+
+## Day 5 – Java Methods
+**Date:**  01-Feb-2026
+
+## Topics Covered
+User Defined Method
+Using Methods Multiple Times
+Making Methods More Dynamic
+Recursive Methods
+Java Static Methods
+Java Standard Library Methods
+java.lang.Math Class
+## Key Learning Objectives
+Designing reusable and modular methods
+Passing parameters and returning values
+Using arrays with methods
+Applying recursion vs iteration
+Using built-in Math utility functions
+Writing clean, maintainable Java code
+## Key Takeaways
+Strong command over method design
+Hands-on experience with Math class
+Built reusable utility classes
+Improved logical and mathematical problem-solving
+Learned real-world use cases in Java
+### 🔗 Code Link 
+[ Day 5 – Java Methods]  https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Methods
