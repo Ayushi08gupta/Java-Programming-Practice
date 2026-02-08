@@ -219,4 +219,25 @@ Strong practice with exception handling
 Improved problem-solving using ASCII values and arrays
 Hands-on experience with real-world problems using Java Strings
 ### 🔗 Code Link 
+[ Day 5 – Java Methods] (https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Methods)
+## Day 6 – Java Strings
+**Date:** 02-Feb-2026
+## Topics Covered
+What is String in Java
+Creating Strings (String Literal vs new keyword)
+Escape Sequences (\", \n, \t, etc.)
+Taking String Input using Scanner
+String Arrays
+String as Method Parameter
+String Immutability
+String Pool Concept
+Built-in String Methods
+## Key Learnings
+Deep understanding of String immutability & String Pool
+Mastered charAt()-based string manipulation
+Learned exception handling with Strings
+Practiced ASCII-based character conversion
+Built real-world mini projects using Strings
+Strengthened logic-building skills without relying on built-in methods
+### 🔗 Code Link 
 [ Day 5 – Java Strings]  https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Strings/level1
