@@ -10,11 +10,6 @@
 - Java Program Structure  
 - How Java Program Works  
 
-### 🧪 Practice Work
-- Studied core Java fundamentals and Java ecosystem
-- Understood Java compilation and execution process
-- Practiced writing basic Java programs
-
 ### 🔗 Code Link
 👉 [Day 1 – Basics of Java](https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics)
 ## Day 2 – Core Java Fundamentals
@@ -136,4 +131,5 @@ Strong practice with exception handling
 Improved problem-solving using ASCII values and arrays
 Hands-on experience with real-world problems using Java Strings
 ### 🔗 Code Link 
-[ Day 6 – Java Strings] (https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Methods)
+[ Day 6 – Java Strings] 
+https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Strings/level1
