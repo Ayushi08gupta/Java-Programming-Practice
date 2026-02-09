@@ -39,13 +39,6 @@ Percentage, Profit, and Discount Calculations
 User Input–Based Programs
 Command Line Argument–Based Programs
 
-## Practice Work
-Solved basic numeric and real-world calculation problems
-Implemented user input handling using Scanner
-Practiced command line argument programs
-Strengthened understanding of operators and precedence
-Improved logical thinking through hands-on coding
-
 ### 🔗 Code Link
  [Core Java Fundamentals]https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics
  
