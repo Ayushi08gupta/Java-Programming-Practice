@@ -134,6 +134,7 @@ Hands-on experience with real-world problems using Java Strings
 [ Day 6 – Java Strings] 
 https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Strings/level1
 ### Day 7 - Methods / Functions
+**Date:** 03-Feb-2026
 ## 1️ Methods / Functions (Core)
 A method is a block of statements that performs a specific task.
 It helps in code reusability, modularity, and readability.
