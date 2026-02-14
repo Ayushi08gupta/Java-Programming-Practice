@@ -134,112 +134,42 @@ Hands-on experience with real-world problems using Java Strings
 [ Day 6 – Java Strings] 
 https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Strings/level1
 ### Day 7 - Methods / Functions
-1️ Methods / Functions (Core)
-What is a Method?
+## 1️ Methods / Functions (Core)
 A method is a block of statements that performs a specific task.
 It helps in code reusability, modularity, and readability.
-Why we use methods?
-Avoid repetition of code
-Improve clarity
-Easy debugging
-Logical separation of tasks
-Types of Methods
+## Types of Methods
 Predefined Methods – Already available in Java (e.g., math functions).
 User-defined Methods – Created by the programmer.
-Based on parameters and return type:
+## Based on parameters and return type:
 No parameter, no return value
 Parameter, no return value
 Return value, no parameter
 Return value with parameter
-Important Concepts:
+## Important Concepts:
 Method Overloading – Same method name with different parameters.
 Static Method – Belongs to class.
 Non-static Method – Belongs to object.
 Pass by Value – Java passes copy of variable.
 Recursion – Method calling itself.
-2️ Java Date & Time API
+## 2️ Java Date & Time API
 Introduced in Java 8 under java.time package.
-Why introduced?
-Old Date class had design issues. New API is:
-Immutable
-Thread-safe
-Easy to use
-Important Classes:
-LocalDate – Date only
-LocalTime – Time only
-LocalDateTime – Date + Time
-DateTimeFormatter – Formatting dates
-Features:
+## Features:
 Date arithmetic (add/subtract days, months, years)
 Formatting and parsing
 Comparing dates
-3️ Recursion
+## 3️ Recursion
 Recursion is a process where a method calls itself.
-Key Components:
+## Key Components:
 Base Case – Condition to stop recursion.
 Recursive Call – Method calls itself with smaller input.
-Where used?
-Factorial
-Fibonacci
-Tree traversal
-Backtracking problems
-Important:
-If base case is missing → StackOverflowError.
-4️ Random Class
+## 4️ Random Class
 The Random class is used to generate random values.
-It can generate:
-Random integers
-Random double values
-Random boolean values
-Common Uses:
-Games
-OTP generation
-Simulation
-Testing
-5️ String Processing
+It can generate: Random integers , Random double values , Random boolean values
+## 5️ String Processing
 String processing means performing operations on text data.
-Common Operations:
-Finding length
-Extracting characters
-Comparing strings
-Searching substring
-Replacing characters
-Splitting strings
-Changing case (upper/lower)
-Important Concept:
-Strings in Java are immutable, meaning once created, they cannot be changed.
-6️ Mathematical Logic
+Common Operations: Finding length , Extracting characters , Comparing strings , Searching substring , Replacing characters , Splitting strings , Changing case (upper/lower) , 
+## 6️ Mathematical Logic
 Mathematical logic includes solving number-based problems using conditions and loops.
-Common Topics:
-Even/Odd check
-Prime numbers
-Factorial
-Armstrong number
-Palindrome number
-GCD and LCM
-Power calculation
-Concepts Used:
-Modulus operator (%)
-Loops
-Conditional statements
-Logical operators
-7️ Control Flow & Loops (Revision)
-Control flow decides how the program executes.
-Decision Making:
-if
-if-else
-else-if ladder
-switch
-ternary operator
-Looping Statements:
-for loop
-while loop
-do-while loop
-for-each loop
-Control Statements:
-break – exits loop
-continue – skips iteration
-8️ User Input (Revision)
-Java takes user input using the Scanner class.
 ### 🔗 Code Link 
+[Java - Methods] 
 https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Methods
