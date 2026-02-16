@@ -174,3 +174,23 @@ Mathematical logic includes solving number-based problems using conditions and l
 ### 🔗 Code Link 
 [Java - Methods] 
 https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics/Methods
+
+## Week 2 – Object Oriented Programming
+***Day 1*** – Java Class and Object
+## Main Topics Covered
+Procedural Programming (POP)
+Object-Oriented Programming (OOP)
+POP vs OOP
+Class
+Object
+Class vs Object
+Attributes and Methods inside a Class
+## Key Learnings
+Understood the difference between POP and OOP
+Learned why OOP is preferred for large applications
+Gained clarity on what a Class is (blueprint/template)
+Understood what an Object is (instance of a class)
+Learned how attributes define state and methods define behavior
+Built foundation for core OOP concepts in Java
+### 🔗 Code Link
+[oops] https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/java-oops-practice/oops-java-practice
