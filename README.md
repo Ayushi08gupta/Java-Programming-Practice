@@ -6,7 +6,7 @@
 - History of Java  
 - What is Java  
 - Features of Java  
-- JDK, JRE, JVM  
+- JDK, JRE, JVM
 - Java Program Structure  
 - How Java Program Works  
 
