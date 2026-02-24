@@ -8,7 +8,7 @@
 - Features of Java  
 - JDK, JRE, JVM
 - Java Program Structure  
-- How Java Program Works  
+- How Java Program Works
 
 ### 🔗 Code Link
 👉 [Day 1 – Basics of Java](https://github.com/Ayushi08gupta/Java-Programming-Practice/tree/core-java-practice/core-java-practice/Basics)
